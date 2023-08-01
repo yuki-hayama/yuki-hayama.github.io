@@ -6,3 +6,4 @@
 - [page2](./text/page-002.md)
 
 [SUMMARY](./SUMMARY.md)
+[IMG](./Images/img-sample.md)
