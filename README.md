@@ -2,4 +2,4 @@
 
 **WELCOME TO Yuki Hayama's Home Page.**  
 
-[other-page](text/other-page.md)
+[other-page](./text/other-page.md)
